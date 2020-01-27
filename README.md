@@ -1,2 +1,2 @@
-# ds_meetup_jan2020
-Rep describing simple Python for image manipulation
+# What's with that image, Python?
+This talk, given at the Data Science Nashville on January 22, 2020 aimed to be an introduction to the preliminary manipulation and analyses of the digital images with core Python libraries. While the field and potential of image analysis by more advanced approaches are vast, we want to just dip our toes to understand how an image is similar to an array. An understanding of the basic steps involved in the image manipulation can go a long way towards other more advanced approaches.
